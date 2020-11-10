@@ -1,3 +1,6 @@
+- Note: 
+This is a demo package for this issue: https://github.com/jupyter-widgets/ipywidgets/issues/2218
+
 - Install
 ```
 pip install git+https://github.com/hainm/fullscreen
